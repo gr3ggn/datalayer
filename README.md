@@ -1,4 +1,4 @@
-# datalayer
+# Dapper DataLayer
 An implementation of Dapper that provides a re-usable library for accessing Postgres, SQL Server or SQL Lite databases.
 
 If you take a look at the unit tests in the DataLayer.Tests project that should give you some idea of how to implement this library.
